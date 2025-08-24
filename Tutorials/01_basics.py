@@ -27,9 +27,9 @@ print("Hello World")
 print("Hey", 1, 2, sep="-", end=" statement ended and separated by - \n")
 print("Learn \" Python \" ")
 
-first_name = input("Enter your First Name : ")
-last_name = input("Enter your Last Name : ")
-full_name = first_name + " " + last_name
+# first_name = input("Enter your First Name : ")
+# last_name = input("Enter your Last Name : ")
+# full_name = first_name + " " + last_name
 # print(" Your full name is : ", full_name)
 
 # num1 = input("Enter your first number : ")
